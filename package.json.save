@@ -1,0 +1,2 @@
+"test": "mocha --timeout 5000 --reporter mocha-junit-reporter"
+"test": "echo \"No tests yet\""
